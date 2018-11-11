@@ -47,6 +47,7 @@
 <?php
 
 require '../private/vendor/autoload.php';
+require '../private/constants.php';
 
 if($_SERVER['REQUEST_METHOD']==='POST'){
 
